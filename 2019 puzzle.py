@@ -2,7 +2,6 @@ possibleSolutions = []
 operations = ['+', '-', '*', '/']
 numberList = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 targetNum = 2019
-numberList = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 
 
 def baseConvert(startBase, convertBase, value):
